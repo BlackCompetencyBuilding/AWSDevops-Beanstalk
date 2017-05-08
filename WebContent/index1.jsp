@@ -62,7 +62,7 @@
                         <td><input type="submit" value="Login" /></td>  
 						<tr>  
                         <td colspan="2"><a href="index.jsp">Register Now</a></td>
-							<td>WELCOME to AWS DevOps </td>				
+										
 						</tr>   
                     </tr>   
                 </tbody>
